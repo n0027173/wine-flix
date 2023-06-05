@@ -1,0 +1,4 @@
+nav .primary-navigation{display:flex;align-items:center}
+nav .primary-navigation .navigation-links{display:inline}
+nav .primary-navigation .navigation-links li{display:inline-block;margin-right:18px}
+nav .primary-navigation .navigation-links li.active{font-weight:700}

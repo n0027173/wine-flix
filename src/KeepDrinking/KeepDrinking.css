@@ -1,0 +1,3 @@
+.wine .amount-consumed{padding:0 48px 16px 48px}.wine .amount-consumed progress{width:100%;height:4px;background-color:#4d4d4d;border:none}
+.wine .amount-consumed progress::-moz-progress-bar,
+.wine .amount-consumed progress::-webkit-progress-bar{background-color:#b81430}
